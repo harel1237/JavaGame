@@ -60,24 +60,25 @@ public class TileManager {
 
             // map un-packer
 
-            while(col<gp.maxScreenCol && row< gp.maxScreenRow-2) {
+            while(row< gp.maxScreenRow) {
 
 
                 String line = bufferedReader.readLine();
 
                 while(col< gp.maxScreenCol){
-
-                    System.out.println(line);
-
-                    String[] numbers = line.split(",");
+                    if(line!=null) {
 
 
-                    int num = Integer.parseInt(numbers[col]);
+                        String[] numbers = line.split(",");
 
-                    mapTileNum[col][row] = num;
+
+                        int num = Integer.parseInt(numbers[col]);
+
+                        mapTileNum[col][row] = num;
+                    }
                     col++;
                 }
-
+                System.out.println(line);
                 col =0;
                 row++;
             }
