@@ -5,32 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6925355b-8120-442a-82ca-629fda32d3ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/maps/map.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/down_sprite1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/down_sprite2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/left_sprite1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/left_sprite2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/right_image1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/right_image2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/up_sprite1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/up_sprite2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/earth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/tile1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/tile2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/KeyHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tile/Tile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tile/TileManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaGame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaGame.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/maps/map.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/maps/map.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tile/TileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tile/TileManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2VkdB7Ff1bWVbBpSuYwhkGBg7D8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -61,14 +40,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "Game",
     "last_opened_file_path": "C:/Users/harel/IdeaProjects/JavaGame",
     "onboarding.tips.debug.path": "C:/Users/harel/IdeaProjects/JavaGame/res/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -112,6 +92,29 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -122,5 +125,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
